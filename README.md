@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I’m currently working on ReactJs ,nodeJs<br>🌱 I’m currently learning DSA, Databases ,JavaScipt, APIs<br>⚡ Fun fact I interested in to become a Social Media Manager
+ 🔭 I’m currently working on ReactJs ,nodeJs<br>🌱 I’m currently learning DSA, Databases ,JavaScipt, APIs ,PHP<br>⚡ Fun fact I interested in to become a Social Media Manager
 
 
 ## 🌐 Socials:
